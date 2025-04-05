@@ -44,3 +44,8 @@ const playlist = [
 
 You can open a Spotify playlist by clicking the external link button in the bottom-right corner of the player.
 
+## 📬 Contact
+For any questions or collaborations, feel free to reach out:
+📧 Email: hakanlok@proton.me
+🔗 [LinkedIn](https://www.linkedin.com/in/hakan-lök-9565262a2)
+
