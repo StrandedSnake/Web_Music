@@ -39,6 +39,8 @@ const playlist = [
 4. Open index.html in your browser and enjoy your personal music player!
 
 ## 🌐 Live Demo
+[Web Music](https://strandedsnake.github.io/Web_Music/)
+
+
 You can open a Spotify playlist by clicking the external link button in the bottom-right corner of the player.
 
-Default: My Spotify Playlist
