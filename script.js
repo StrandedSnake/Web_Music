@@ -101,7 +101,8 @@ let isRepeatOn = false;
 // Sayfa yüklendiğinde
 window.addEventListener('load', () => {
   renderPlaylist();
-  playTrack(0); 
+  playTrack(0);
+  playPauseBtn.src = "images/play.png";
 });
 
 // Kontrol tuşları
